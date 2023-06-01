@@ -1,5 +1,5 @@
-<h1 align="center">cout << "Hello there 👋🏻"</h1>
-<h3 align="center">👨🏻‍💻 Computer Engineering Student in Italy</h3>
+<h1 align="center">cout << "Hi, I'm Roberto 👋🏻"</h1>
+<h3 align="center">👨🏻‍💻 Computer Engineering Student</h3>
 
 <h3 align="left">📚 About me:</h3>
 
