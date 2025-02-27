@@ -4,7 +4,7 @@
 <h3 align="left">📚 About me:</h3>
 
 <p align="left">
-I'm a Computer Engineering student at Polytechnic of Bari, enrolled in the "IBM P-TECH" course. I'm highly interested in Software Development and Databases. I enjoy working on various Frameworks as well as learning continuously so as to improve my Hard Skills and Soft Skills. Certified English level, Italian native speaker.
+I'm a Computer Science Engineering student at Polytechnic University of Bari, enrolled in the "IBM P-TECH" course. I'm highly interested in Software Development and Databases. I enjoy working on various Frameworks as well as learning continuously so as to improve my Hard Skills and Soft Skills. Certified English level, Italian native speaker.
 </p>
 
 <h3 align="left">Connect with me:</h3>
