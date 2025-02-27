@@ -1,5 +1,5 @@
 <h1 align="center">print("Hi, I'm Roberto 👋🏻")</h1>
-<h3 align="center">👨🏻‍💻 Computer Engineering Student</h3>
+<h3 align="center">👨🏻‍💻 Computer Science Engineering Student</h3>
 
 <h3 align="left">📚 About me:</h3>
 
