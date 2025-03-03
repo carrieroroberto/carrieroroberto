@@ -1,5 +1,4 @@
-<h1 align="center">print("Hi, there 👋🏻")</h1>
-<h3 align="center">👨🏻‍💻 BSc Computer Science Engineering Student - IBM P-TECH</h3>
+<h1 align="center">👨🏻‍💻 BSc Computer Science Engineering Student - IBM P-TECH</h1>
 
 <h3 align="left">📚 About me:</h3>
 
