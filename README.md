@@ -1,10 +1,10 @@
 <h1 align="center">print("Hi, there 👋🏻")</h1>
-<h3 align="center">👨🏻‍💻 Computer Science Engineering Student</h3>
+<h3 align="center">👨🏻‍💻 BSc Computer Science Engineering Student - IBM P-TECH</h3>
 
 <h3 align="left">📚 About me:</h3>
 
 <p align="left">
-I'm a Computer Science Engineering student at Polytechnic University of Bari, enrolled in the "IBM P-TECH" course. I'm highly interested in Software Development and Databases. I enjoy working on various Frameworks as well as learning continuously so as to improve my Hard Skills and Soft Skills. Certified English level, Italian native speaker.
+I am a Computer Engineering student at the Polytechnic University of Bari, currently enrolled in IBM P-TECH program. My strong passion for Computer Science, combined with a deep curiosity, drives me to continuously seek new experiences in the field while refining both my hard and soft skills. I am a native Italian speaker, certified in English, and have a basic knowledge of German.
 </p>
 
 <h3 align="left">Connect with me:</h3>
