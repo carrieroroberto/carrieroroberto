@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 BSc Computer Science Engineering Student - IBM P-TECH</h1>
+<h1 align="center">👨🏻‍💻 B.Sc. Computer Science Engineering Student - IBM P-TECH</h1>
 
 <h3 align="left">📚 About me:</h3>
 
