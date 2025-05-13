@@ -3,7 +3,7 @@
 <h3 align="left">📚 About me:</h3>
 
 <p align="left">
-Computer Engineering student at the Polytechnic University of Bari, currently enrolled in the IBM P-TECH program. Highly motivated and passionate about Computer Science, with a strong commitment to continuous learning and professional growth. Dedicated to refining both technical and interpersonal skills through diverse experiences in the field. Native Italian speaker, certified in English, with a basic knowledge of German.
+Computer Engineering and Automation student at the Polytechnic University of Bari, currently enrolled in the IBM’s P-TECH Program (Pathways in Technology Early College High School). Enthusiast of Machine Learning, Deep Learning and Software Engineering, with a strong commitment to continuous learning and professional growth. Native Italian speaker, certified in English and basic German.
 </p>
 
 <h3 align="left">Connect with me:</h3>
