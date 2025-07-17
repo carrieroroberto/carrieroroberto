@@ -1,9 +1,13 @@
-<h1 align="center">👨🏻‍💻 B.Sc. Computer Science Engineering Student - IBM P-TECH</h1>
+<h1 align="center">👨🏻‍💻 B.Sc. in Computer and Automation Engineering | IBM P-TECH Graduate</h1>
 
 <h3 align="left">📚 About me:</h3>
 
 <p align="left">
-Computer Engineering and Automation student at the Polytechnic University of Bari, currently enrolled in the IBM’s P-TECH Program (Pathways in Technology Early College High School). Enthusiast of Machine Learning, Deep Learning and Software Engineering, with a strong commitment to continuous learning and professional growth. Native Italian speaker, certified in English and basic German.
+Graduate in Computer Engineering and Automation from the Polytechnic University of Bari, with a background developed through the IBM P-TECH Program (Pathways in Technology Early College High School).
+
+I have a strong interest in Machine Learning, Deep Learning, and Software Engineering, and I am committed to continuous improvement through both academic study and practical experience. My goal is to contribute to innovative projects in the field of Artificial Intelligence and to further specialize in advanced AI techniques and real-world applications.
+
+Native Italian speaker, B2 certified in English, with basic knowledge of German.
 </p>
 
 <h3 align="left">Connect with me:</h3>
