@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Roberto Carriero
-    <br>B.Sc. in Computer and Automation Engineering | IBM P-TECH Graduate
+    <br>B.Sc. in Computer and Automation Engineering
 </h1>
 
 <h3 align="left">📚 About me:</h3>
