@@ -1,4 +1,6 @@
-<h1 align="center">👨🏻‍💻 Roberto Carriero | B.Sc. in Computer and Automation Engineering</h1>
+<h1 align="center">👨🏻‍💻 Roberto Carriero
+    B.Sc. in Computer and Automation Engineering
+</h1>
 
 <h3 align="left">📚 About me:</h3>
 
