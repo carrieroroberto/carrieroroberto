@@ -2,7 +2,7 @@
     <br>M.Sc. Student in Computer Science Engineering (AI & Data Science)
 </h1>
 
-<h3 align="left">📚 About me:</h3>
+<h3 align="left">About me:</h3>
 
 <p align="left">
 Graduate in Computer Engineering and Automation from the Polytechnic University of Bari, with a strong foundation built through the IBM P-TECH Program (Pathways in Technology Early College High School), becoming the first P-TECH graduate in Europe. Currently pursuing an M.Sc. in Computer Science Engineering – Artificial Intelligence and Data Science.
