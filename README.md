@@ -1,15 +1,15 @@
 <h1 align="center">👨🏻‍💻 Roberto Carriero
-    <br>B.Sc. in Computer and Automation Engineering
+    <br>M.Sc. Student in Computer Science Engineering (AI & Data Science)
 </h1>
 
 <h3 align="left">📚 About me:</h3>
 
 <p align="left">
-Graduate in Computer Engineering and Automation from the Polytechnic University of Bari, with a background developed through the IBM P-TECH Program (Pathways in Technology Early College High School).
+Graduate in Computer Engineering and Automation from the Polytechnic University of Bari, with a strong foundation built through the IBM P-TECH Program (Pathways in Technology Early College High School), becoming the first P-TECH graduate in Europe. Currently pursuing an M.Sc. in Computer Science Engineering – Artificial Intelligence and Data Science.
 
-I have a strong interest in Machine Learning, Deep Learning, and Software Engineering, and I am committed to continuous improvement through both academic study and practical experience. My goal is to contribute to innovative projects in the field of Artificial Intelligence and to further specialize in advanced AI techniques and real-world applications.
+I am passionate about Machine Learning, Deep Learning, and Computer Vision, with a particular focus on developing efficient AI solutions for real-time and resource-constrained scenarios. I strive to continuously enhance both my technical and soft skills through academic research and hands-on experience.
 
-Native Italian speaker, B2 certified in English, with basic knowledge of German.
+Languages: Native Italian, B2 English, basic German.
 </p>
 
 <h3 align="left">Connect with me:</h3>
