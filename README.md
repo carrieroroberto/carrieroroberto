@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Roberto Carriero
-    <br>M.Sc. Student in Computer Science Engineering (AI & Data Science)
+    <br>Computer Science Engineering - AI & Data Science Student
 </h1>
 
 <h3 align="left">About me:</h3>
